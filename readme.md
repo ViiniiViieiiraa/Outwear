@@ -195,11 +195,11 @@ Como evolução natural do projeto, a plataforma poderia receber novos recursos 
 
 ### 🔐 Painel Administrativo
 
-![Painel administrativo](img/docs/homeadmin.png)
+![Painel administrativo](img/docs/homeadmin.PNG)
 
 ### 🔐 Gerenciamento de Produtos
 
-![Gerenciamento de Produtos](img/docs/produtosadmin.png)
+![Gerenciamento de Produtos](img/docs/produtosadmin.PNG)
 
 ### 🔐 Gerenciamento de Usuarios
 
