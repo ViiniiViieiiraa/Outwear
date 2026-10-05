@@ -2,7 +2,7 @@
 
 > **Qualidade é a nossa moda.**
 
-A **Outwear** é um projeto de e-commerce desenvolvido como **Trabalho de Conclusão de Curso (TCC)**, em equipe de três integrantes, com o objetivo de criar uma experiência de compra de roupas e acessórios totalmente online.
+A **Outwear** é um projeto de e-commerce desenvolvido como **Trabalho de Conclusão de Curso (TCC)**, em equipe de três integrantes, com o objetivo de criar uma experiência de compra online voltada para roupas e acessórios.
 
 A proposta da marca é oferecer uma plataforma que combine **variedade, qualidade, praticidade e uma experiência de compra próxima do cliente**, tendo como inspiração o modelo de grandes plataformas de comércio eletrônico de moda.
 
@@ -17,7 +17,7 @@ A partir disso, foi criada uma plataforma de e-commerce focada em vestuário e a
 O conceito da marca também está relacionado ao próprio nome:
 
 - **OUT** → "Fora", representando a ideia de sair do padrão e seguir o próprio estilo.
-- **WEAR** → "Vestir", fazendo referência diretamente às roupas e vestimentas.
+- **WEAR** → "Vestir", fazendo referência às roupas e vestimentas.
 
 A proposta da Outwear é incentivar o cliente a encontrar e construir sua própria identidade através da moda.
 
@@ -27,14 +27,14 @@ A proposta da Outwear é incentivar o cliente a encontrar e construir sua própr
 
 O principal objetivo do projeto foi desenvolver uma plataforma de comércio eletrônico capaz de proporcionar uma experiência de compra online completa e intuitiva.
 
-Entre os objetivos definidos para a marca estão:
+Entre os objetivos da Outwear estão:
 
 - Oferecer uma experiência de compra online diferenciada;
 - Disponibilizar variedade de produtos;
 - Priorizar qualidade e conforto;
 - Facilitar o acesso aos produtos sem a necessidade de deslocamento;
 - Aproximar a marca de seus consumidores;
-- Oferecer suporte aos clientes durante sua experiência na plataforma.
+- Oferecer atendimento e suporte aos clientes durante sua experiência na plataforma.
 
 ---
 
@@ -42,7 +42,7 @@ Entre os objetivos definidos para a marca estão:
 
 A Outwear tem como público pessoas que desejam melhorar seu visual, encontrar seu próprio estilo e ter acesso a diferentes opções de roupas e acessórios.
 
-A marca possui uma forte relação com o conceito **streetwear**, entendido no projeto como um estilo ligado à essência urbana e cultural de pessoas ao redor do mundo.
+A marca possui uma forte relação com o conceito **streetwear**, associado à essência urbana e cultural de milhares de pessoas ao redor do mundo.
 
 Além da venda de produtos, a proposta também envolve auxiliar o usuário na construção do próprio estilo, apresentando conceitos relacionados a combinações, simplicidade e qualidade.
 
@@ -54,25 +54,28 @@ O sistema foi desenvolvido com diferentes experiências para **usuários** e **a
 
 ### 👤 Área do Usuário
 
-A versão destinada aos clientes contempla a navegação pela plataforma e o processo de compra dos produtos.
+A área destinada aos clientes contempla a navegação pela loja e o processo de compra dos produtos.
 
-Entre as telas apresentadas no projeto estão:
+Entre as principais funcionalidades e telas estão:
 
-- Página inicial do usuário;
+- Página inicial;
 - Navegação pela loja;
 - Visualização de produtos;
+- Visualização de informações dos produtos;
 - Processo de compra;
-- Interação com os produtos disponibilizados pela plataforma.
+- Acesso aos produtos disponibilizados pela plataforma.
 
 ### 🔐 Área Administrativa
 
-A plataforma também possui uma área exclusiva para administração do sistema.
+A plataforma possui uma área exclusiva para administração do sistema.
 
-Entre as telas apresentadas estão:
+Entre as funcionalidades e telas administrativas estão:
 
-- Página inicial do administrador;
+- Página inicial administrativa;
 - Perfil do administrador;
-- Gerenciamento da plataforma através da área administrativa.
+- Gerenciamento de produtos;
+- Gerenciamento de usuários;
+- Administração da plataforma.
 
 ---
 
@@ -91,7 +94,7 @@ O projeto apresenta conteúdos relacionados a:
 - Cobertura;
 - Sobreposição de peças.
 
-Dessa forma, o projeto não se limita apenas à venda de produtos, mas também trabalha a identidade visual e a experiência da marca.
+Dessa forma, o projeto não se limita à venda de produtos, mas também trabalha a identidade visual e a experiência da marca.
 
 ---
 
@@ -112,7 +115,7 @@ A aplicação foi desenvolvida utilizando tecnologias voltadas para desenvolvime
 
 ## 🏗️ Estrutura do Sistema
 
-O projeto foi dividido principalmente em duas experiências:
+O projeto foi dividido principalmente em duas áreas:
 
 ```text
 Outwear
@@ -123,7 +126,9 @@ Outwear
 │
 └── Área Administrativa
     ├── Home
-    └── Perfil
+    ├── Perfil
+    ├── Produtos
+    └── Usuários
 ```
 
 A separação entre as áreas permite que usuários e administradores tenham experiências diferentes dentro da plataforma, de acordo com suas respectivas funções.
@@ -132,11 +137,9 @@ A separação entre as áreas permite que usuários e administradores tenham exp
 
 ## 👥 Desenvolvimento em Equipe
 
-A Outwear foi desenvolvida em **trio** como parte do Trabalho de Conclusão de Curso.
+A Outwear foi desenvolvida em **equipe de três integrantes** como parte do Trabalho de Conclusão de Curso.
 
-O desenvolvimento em equipe envolveu a construção conjunta da identidade da marca, planejamento da solução, desenvolvimento da aplicação e implementação da experiência de e-commerce.
-
-> **Observação:** a divisão individual das tarefas entre os três integrantes não está especificada na apresentação. Essa informação pode ser adicionada posteriormente para destacar exatamente quais partes do sistema foram desenvolvidas por cada integrante.
+O desenvolvimento envolveu a construção da identidade da marca, planejamento da solução, desenvolvimento da aplicação e implementação da experiência de e-commerce.
 
 ---
 
@@ -152,26 +155,9 @@ O desenvolvimento em equipe envolveu a construção conjunta da identidade da ma
 
 ## 🚀 Resultado
 
-O resultado foi a criação de uma plataforma de e-commerce com identidade própria, contemplando tanto a experiência de compra do cliente quanto uma área administrativa para gerenciamento do sistema.
+O resultado foi uma plataforma de e-commerce com identidade própria, contemplando tanto a experiência de compra do cliente quanto uma área administrativa para gerenciamento da plataforma.
 
-O projeto também buscou unir **desenvolvimento de software, experiência do usuário e construção de marca**, criando uma solução que representa uma loja de moda online completa.
-
----
-
-## 🔮 Possíveis Evoluções
-
-Como evolução natural do projeto, a plataforma poderia receber novos recursos e melhorias, como:
-
-- Sistema de avaliações de produtos;
-- Favoritos e lista de desejos;
-- Filtros avançados de produtos;
-- Integração com meios de pagamento;
-- Rastreamento de pedidos;
-- Sistema de cupons e promoções;
-- Dashboard administrativo com indicadores;
-- Melhorias de acessibilidade;
-- Integração com APIs e serviços externos;
-- Aplicação mobile.
+O projeto buscou unir **desenvolvimento de software, experiência do usuário e construção de marca**, criando uma solução voltada ao comércio online de roupas e acessórios.
 
 ---
 
@@ -197,13 +183,14 @@ Como evolução natural do projeto, a plataforma poderia receber novos recursos 
 
 ![Painel administrativo](img/docs/homeadmin.PNG)
 
-### 🔐 Gerenciamento de Produtos
+### 📦 Gerenciamento de Produtos
 
-![Gerenciamento de Produtos](img/docs/produtosadmin.PNG)
+![Gerenciamento de produtos](img/docs/produtosadmin.PNG)
 
-### 🔐 Gerenciamento de Usuarios
+### 👥 Gerenciamento de Usuários
 
-![Gerenciamento de Usuarios](img/docs/usuariosadmin.png)
+![Gerenciamento de usuários](img/docs/usuariosadmin.png)
+
 ---
 
 ## 📄 Licença
